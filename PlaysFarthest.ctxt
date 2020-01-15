@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PlaysFarthest
+comment0.text=\n\ This\ player\ will\ always\ choose\ to\ follow\ the\ longest\ neighboring\ edge\n\ unless\ an\ exit\ node\ is\ in\ its\ neighbor\ as\ well\n\n\ @author\ Shiho\ Numakura\ \n\ @version\ 1\n
+comment1.params=graph\ start\ exits\ limit
+comment1.target=PlaysFarthest(Graph,\ Node,\ java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=Edge\ pick()
+comment3.params=exits
+comment3.target=boolean\ checkAround(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ Dijkstra()
+comment5.params=D
+comment5.target=Node\ minNode(java.util.ArrayList)
+numComments=6

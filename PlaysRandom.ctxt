@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlaysRandom
+comment0.text=\n\ This\ player\ will\ choose\ an\ edge\ randomly\ every\ round\ \n\n\ @author\ Shiho\ Numakura\ \n\ @version\ 1\n
+comment1.params=start\ exits\ limit
+comment1.target=PlaysRandom(Node,\ java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=Edge\ pick()
+numComments=3

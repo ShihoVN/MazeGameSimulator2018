@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Graph
+comment0.text=\n\ The\ maze\ will\ be\ stored\ in\ a\ graph\ implemented\ in\ an\ ArrayList\ \n\n\ @author\ Shiho\ Numakura\ \n\ @version\ 1\n
+comment1.params=original
+comment1.target=Graph(Graph)
+comment2.params=n
+comment2.target=Graph(int)
+comment3.params=
+comment3.target=void\ initialize()
+comment4.params=
+comment4.target=java.util.ArrayList\ getGraph()
+comment5.params=i
+comment5.target=Node\ getGraph(int)
+comment6.params=k1\ k2\ w
+comment6.target=boolean\ addEdge(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ printGraph()
+numComments=8

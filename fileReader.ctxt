@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=fileReader
+comment0.text=\n\ This\ will\ go\ through\ the\ input\ files\ given\ and\ absorb\ the\ appropriate\ information\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=fileName1\ fileName2
+comment1.target=fileReader(java.lang.String,\ java.lang.String)
+comment2.params=fileName
+comment2.target=void\ read1(java.lang.String)
+comment3.params=fileName
+comment3.target=void\ read2(java.lang.String)
+comment4.params=
+comment4.target=Graph\ getGraph()
+comment5.params=
+comment5.target=java.util.ArrayList\ getExits()
+comment6.params=
+comment6.target=Node\ getStart()
+numComments=7

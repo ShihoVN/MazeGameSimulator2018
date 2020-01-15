@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\n\ Acts\ as\ a\ bridge\ from\ a\ Node\ to\ another\ Node.\ \ \n\ Each\ node\ will\ have\ a\ weight\ which\ will\ be\ the\ number\ of\ steps\ \n\ required\ to\ reach\ the\ destination\ node\n\n\ @author\ Shiho\ Numakura\ \ \ \n\ @version\ 1\n
+comment1.params=
+comment1.target=Edge()
+comment2.params=nodeD\ weight
+comment2.target=Edge(Node,\ int)
+comment3.params=
+comment3.target=int\ getNodeD()
+comment4.params=
+comment4.target=Node\ getDNode()
+comment5.params=weight
+comment5.target=void\ setCost(int)
+comment6.params=
+comment6.target=int\ getCost()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

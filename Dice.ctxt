@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\n\ This\ object\ will\ allow\ players\ to\ roll\ the\ dice\ \n\ to\ generate\ the\ steps\ to\ take\ at\ that\ turn\n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=seed\ max
+comment1.target=Dice(int,\ int)
+comment2.params=
+comment2.target=int\ roll()
+numComments=3

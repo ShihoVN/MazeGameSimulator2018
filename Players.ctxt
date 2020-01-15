@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Players
+comment0.text=\n\ Player\ Container\ class\ where\ all\ players\ of\ the\ game\ are\ stored\ \n\n\ @author\ Shiho\ Numakura\ \ \ \n\ @version\ 1\n
+comment1.params=graph\ limit\ Nplayers\ start\ exits\ dice
+comment1.target=Players(Graph,\ int,\ int,\ Node,\ java.util.ArrayList,\ Dice)
+comment2.params=
+comment2.target=boolean\ around()
+comment3.params=
+comment3.target=void\ printPosition()
+comment4.params=
+comment4.target=void\ printPlayers()
+comment5.params=
+comment5.target=int\ getWinner()
+comment6.params=
+comment6.target=java.util.ArrayList\ getPlayers()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlaysLast
+comment0.text=\n\ This\ player\ will\ always\ choose\ to\ follow\ the\ last\ edge\ in\ option\n\ unless\ an\ exit\ node\ is\ in\ its\ neighbor\ \n\n\ @author\ Shiho\ Numakura\n\ @version\ 1\n
+comment1.params=start\ exits\ limit
+comment1.target=PlaysLast(Node,\ java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=Edge\ pick()
+numComments=3
